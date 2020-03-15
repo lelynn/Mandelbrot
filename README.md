@@ -7,6 +7,6 @@ n - zoom in
 
 m- zoom out
 
-Rotate with mouse scroll wheen
+Rotate with mouse scroll wheel
 
 Arrow keys to pan x - y direction
