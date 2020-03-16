@@ -1,2 +1,2 @@
 # Mandelbrot
-lelynn.nl/Mandelbrot
+lynnle.nl/Mandelbrot
